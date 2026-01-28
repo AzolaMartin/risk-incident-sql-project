@@ -1,0 +1,11 @@
+incident_id,department_id,severity,incident_date,description
+101,1,High,2024-01-10,Unusual payment activity flagged
+102,2,Medium,2024-01-15,Vendor delay impacted delivery
+103,3,Low,2024-02-02,Password reset spike
+104,3,High,2024-02-20,System outage during peak hours
+105,4,Medium,2024-03-05,Policy acknowledgement overdue
+106,2,Low,2024-03-18,Minor equipment issue resolved
+107,5,High,2024-04-01,Contract compliance exception
+108,1,Medium,2024-04-12,Reconciliation variance investigation
+109,2,High,2024-04-28,Safety incident reported
+110,4,Low,2024-05-09,Training completion reminder
