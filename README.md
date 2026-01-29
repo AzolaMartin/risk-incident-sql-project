@@ -1,6 +1,6 @@
-# Enterprise Risk & Incident Overview (Beginner SQL)
+# Enterprise Risk & Incident Overview 
 
-This beginner-friendly SQL project demonstrates how to join structured tables and answer practical business questions about **risk** and **incidents**—similar to the data reasoning used in enterprise risk and analytics environments.
+This SQL project demonstrates how to join structured tables and answer practical business questions about **risk** and **incidents**—similar to the data reasoning used in enterprise risk and analytics environments.
 
 ## What’s inside
 - **3 tables**: `departments`, `incidents`, `risk_scores`
@@ -22,11 +22,6 @@ This beginner-friendly SQL project demonstrates how to join structured tables an
 ### Option B — Import CSVs
 If you prefer, import the CSVs in `/data` into your database and create tables to match the column names.
 
-## Why this matters (Sales Engineering angle)
-Sales Engineers often need to reason about:
-- how customer data is structured,
-- where metrics come from,
-- how to validate inputs before analytics are applied.
 
 This project shows a clear, readable approach to getting answers from structured data.
 
@@ -37,4 +32,4 @@ This project shows a clear, readable approach to getting answers from structured
 - `LICENSE` — MIT
 
 ---
-**Author:** Zo Martin  
+**Author:** Azola Martin  
